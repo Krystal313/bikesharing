@@ -35,6 +35,6 @@ Similar to the previous graphs of checkout time by gender and trips by weekday, 
 
 Here we compare the number of rides between CitiBike subscribers and normal customers. This chart again has proven the data from our previous graphs that the major users of the CitiBike are male regardless the day of the week. From the chart, we also can see that the major users of CitiBike are the subscribers, which proved that there is a consistent growth to continue this business. 
 
-![Top_locations](Resources/Top locations.png)
+![Top_locations](https://github.com/Krystal313/bikesharing/blob/b31976608bc435f13f70344e9dcaf57be8fb3e33/Resources/Top%20locations.png)
 
 The popular locations for the CitiBike usage are mainly in Manhattan, especially in lower Manhattan areas. This suggests that people mainly use the CitiBike for commute as traffics tend to be heavy in these areas and riding bikes can help people to reduce the commute time. 
