@@ -38,3 +38,7 @@ Here we compare the number of rides between CitiBike subscribers and normal cust
 ![Top_locations](https://github.com/Krystal313/bikesharing/blob/b31976608bc435f13f70344e9dcaf57be8fb3e33/Resources/Top%20locations.png)
 
 The popular locations for the CitiBike usage are mainly in Manhattan, especially in lower Manhattan areas. This suggests that people mainly use the CitiBike for commute as traffics tend to be heavy in these areas and riding bikes can help people to reduce the commute time. 
+
+
+## Summary
+Based on this analysis, we can conclude that the introduction of bike sharing program in Des Moines can become a solid business and there will be large number of subscribers with the huge promotion of healthier life style nowaday. I would also suggest the comparison between different subscription plans that CitiBike offers and possibly the average incomes of the users so the program can be more affordable to public and tourists. 
